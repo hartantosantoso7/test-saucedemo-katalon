@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To clear and input username texfield</description>
+   <name>Input Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a91fc20d-9690-44d7-a518-403ffe4a00da</testCaseGuid>
+</TestCaseEntity>

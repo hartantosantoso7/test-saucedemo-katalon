@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify all elements is visible on User Login  page</description>
+   <name>Click Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fd38676-1406-4af1-998a-f91e5b6eae3f</testCaseGuid>
+</TestCaseEntity>

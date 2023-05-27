@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Click Login</description>
+   <name>Verify content</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18aebec3-f054-4aa9-9327-beab6a0170ae</testCaseGuid>
+</TestCaseEntity>
