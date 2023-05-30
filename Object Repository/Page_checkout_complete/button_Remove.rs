@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Add to cart</name>
+   <name>button_Remove</name>
    <tag></tag>
-   <elementGuidId>56c557bc-9cfb-4657-a6a3-db3dc52d0930</elementGuidId>
+   <elementGuidId>77a09e9b-9f44-4b90-a1f3-cfc7359cd77a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#add-to-cart-sauce-labs-bike-light</value>
+         <value>#remove-sauce-labs-backpack</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='add-to-cart-sauce-labs-bike-light']</value>
+         <value>//button[@id='remove-sauce-labs-backpack']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,126 +22,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2d4dce91-b946-405b-b8f2-8065f9be4974</webElementGuid>
+      <webElementGuid>56a725b5-444c-42bc-8a52-248b7b2989e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn_primary btn_small btn_inventory</value>
-      <webElementGuid>d124ec4d-b5de-4c29-a708-bbca0008f659</webElementGuid>
+      <value>btn btn_secondary btn_small cart_button</value>
+      <webElementGuid>eec1117e-e6aa-4932-b9cc-ab589049463c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-test</name>
       <type>Main</type>
-      <value>add-to-cart-sauce-labs-bike-light</value>
-      <webElementGuid>68b85bba-09e4-4549-a923-f553a7e58ec7</webElementGuid>
+      <value>remove-sauce-labs-backpack</value>
+      <webElementGuid>1cc51cbe-5f5d-4df7-9ebb-667232bb6adb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>add-to-cart-sauce-labs-bike-light</value>
-      <webElementGuid>2680492d-6f45-4674-89ac-0082cd9212c3</webElementGuid>
+      <value>remove-sauce-labs-backpack</value>
+      <webElementGuid>46c87af2-6202-460e-9137-2adadd776251</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>add-to-cart-sauce-labs-bike-light</value>
-      <webElementGuid>32576c8b-6dd0-4684-b359-fb0bdf249183</webElementGuid>
+      <value>remove-sauce-labs-backpack</value>
+      <webElementGuid>b4bfb348-c12c-4e21-8315-0d7d812d5145</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Add to cart</value>
-      <webElementGuid>3e7f38c9-a4ae-4f7b-828a-458140545be7</webElementGuid>
+      <value>Remove</value>
+      <webElementGuid>389e46ab-7593-4aed-b05d-938b38381b32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;add-to-cart-sauce-labs-bike-light&quot;)</value>
-      <webElementGuid>a7271c00-8512-473e-be53-1b0b26b6ce00</webElementGuid>
+      <value>id(&quot;remove-sauce-labs-backpack&quot;)</value>
+      <webElementGuid>c7f655c0-0d58-4474-8298-346df7a69b4e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='add-to-cart-sauce-labs-bike-light']</value>
-      <webElementGuid>738180a0-c5e8-41cf-8872-83530fdf54fd</webElementGuid>
+      <value>//button[@id='remove-sauce-labs-backpack']</value>
+      <webElementGuid>332af97e-9240-40fb-b552-6d1a049dc505</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='inventory_container']/div/div[2]/div[2]/div[2]/button</value>
-      <webElementGuid>c90d1d93-2141-496e-adc1-486e9aea795c</webElementGuid>
+      <value>//div[@id='cart_contents_container']/div/div/div[3]/div[2]/div[2]/button</value>
+      <webElementGuid>2808ce61-2f08-4024-8b56-b73bd263cf8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='$9.99'])[1]/following::button[1]</value>
-      <webElementGuid>b423ddea-729d-4d07-b0a0-89fbdf712b00</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29.99'])[1]/following::button[1]</value>
+      <webElementGuid>9b28d43b-65a7-4b29-a5e9-6f38d39975f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Bike Light'])[1]/following::button[1]</value>
-      <webElementGuid>55de094f-6685-4a35-b32a-2e3ba2f011d7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/following::button[1]</value>
+      <webElementGuid>2a9843cf-0b02-4dbc-9d52-8551a0bfc462</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Bolt T-Shirt'])[1]/preceding::button[1]</value>
-      <webElementGuid>610949f0-3eba-4e03-844b-95b754f7a87e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::button[1]</value>
+      <webElementGuid>96d41030-9ccb-49c1-ab03-6c623fea1ca8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='$15.99'])[1]/preceding::button[1]</value>
-      <webElementGuid>89c17e50-6e76-48e1-b49e-93a6278dfd46</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/preceding::button[2]</value>
+      <webElementGuid>2b3a442b-5c62-4547-8cfe-3a167643faea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Add to cart']/parent::*</value>
-      <webElementGuid>c063eb77-5fa2-40f2-8a10-006e6f006e5b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Remove']/parent::*</value>
+      <webElementGuid>eb17f95b-14d2-49e7-9964-9f4b2f84a8c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div[2]/button</value>
-      <webElementGuid>526f0e9c-e854-433a-a59e-1e583d438bf1</webElementGuid>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>2009d739-b975-4306-ba3c-76f24cd1a0e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'add-to-cart-sauce-labs-bike-light' and @name = 'add-to-cart-sauce-labs-bike-light' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
-      <webElementGuid>dc844349-a0f7-4d10-a55c-29c8f430ce51</webElementGuid>
+      <value>//button[@id = 'remove-sauce-labs-backpack' and @name = 'remove-sauce-labs-backpack' and (text() = 'Remove' or . = 'Remove')]</value>
+      <webElementGuid>7fee3538-492e-4462-9f77-0bf3c0a6b3e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

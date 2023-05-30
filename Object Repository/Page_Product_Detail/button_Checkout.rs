@@ -1,155 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_All Items</name>
+   <name>button_Checkout</name>
    <tag></tag>
-   <elementGuidId>8a618029-7905-4300-91c9-b7222084e346</elementGuidId>
+   <elementGuidId>65929aea-89dd-4430-a9b0-f87cb4608e8a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#inventory_sidebar_link</value>
+         <value>#checkout</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='inventory_sidebar_link']</value>
+         <value>//button[@id='checkout']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>5ada9cf6-446f-427b-9001-41a4d58430c9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>inventory_sidebar_link</value>
-      <webElementGuid>58387bd4-6677-4305-8a0b-0f72defbbde0</webElementGuid>
+      <value>button</value>
+      <webElementGuid>e011b5bf-ea9f-44d4-86ca-12e557b5cc8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>bm-item menu-item</value>
-      <webElementGuid>7ea0b59f-6b8b-49ae-b79c-ce214e1a1d34</webElementGuid>
+      <value>btn btn_action btn_medium checkout_button</value>
+      <webElementGuid>19f81da2-3fc5-4607-9647-9a66a9368799</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>data-test</name>
       <type>Main</type>
-      <value>#</value>
-      <webElementGuid>b32392c4-d2df-46db-91c3-9355692d6540</webElementGuid>
+      <value>checkout</value>
+      <webElementGuid>62cac6cd-a012-4a37-b86e-f16c2b57c526</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>id</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>ac802b9d-2aac-4910-89f7-2b8f6db0f192</webElementGuid>
+      <value>checkout</value>
+      <webElementGuid>7d75502e-6a54-43b7-884f-9c61726e7143</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>checkout</value>
+      <webElementGuid>1e48434c-620e-455a-8677-ea6d566136f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>All Items</value>
-      <webElementGuid>65b5ceff-6af6-4bfc-a69e-ff2f043d9bda</webElementGuid>
+      <value>Checkout</value>
+      <webElementGuid>145ac345-98e3-4c5b-b893-c5583a354524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;inventory_sidebar_link&quot;)</value>
-      <webElementGuid>088eddc0-a622-4b66-84eb-da5ae7e40a33</webElementGuid>
+      <value>id(&quot;checkout&quot;)</value>
+      <webElementGuid>4909c526-7806-4070-9f12-fc90464b46b8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='inventory_sidebar_link']</value>
-      <webElementGuid>82fc21ca-58e5-4aa3-8061-802fa4252069</webElementGuid>
+      <value>//button[@id='checkout']</value>
+      <webElementGuid>c942b06a-5bb9-4393-ad20-a17bf8ee875a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='menu_button_container']/div/div[2]/div/nav/a</value>
-      <webElementGuid>35c45f69-a756-44ca-bc40-5f0b4380b45e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'All Items')]</value>
-      <webElementGuid>eda14cd7-1301-4b35-81f8-dc1cf51b6fce</webElementGuid>
+      <value>//div[@id='cart_contents_container']/div/div[2]/button[2]</value>
+      <webElementGuid>9a0bbaf1-e4f0-41ee-9afa-f9a682e383cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::a[1]</value>
-      <webElementGuid>aae34c00-69bd-45dc-97cd-3c1f0ffdf0b3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/following::button[1]</value>
+      <webElementGuid>b2c9126b-47d0-4940-b69d-26d56798faea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::a[1]</value>
-      <webElementGuid>eb8c6ea8-2e23-40a3-af93-12760470a52a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::button[2]</value>
+      <webElementGuid>090b68f8-10e3-4bb6-8d90-b8dbb6390b8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/preceding::a[4]</value>
-      <webElementGuid>3bf21ab8-0b9a-4f53-9362-343684486fee</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::button[1]</value>
+      <webElementGuid>0918d42b-ef43-40c4-8a8a-3af29eb0904d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='All Items']/parent::*</value>
-      <webElementGuid>21d824ab-f63f-437a-89a5-d982b987736e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::button[1]</value>
+      <webElementGuid>66043252-f0e9-4103-8a39-2e4ef538283d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>0768443d-e30d-4049-b065-3f2f2d35835d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Checkout']/parent::*</value>
+      <webElementGuid>24825c63-0a90-4a7f-9635-a39e6b2647ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a</value>
-      <webElementGuid>6b7b1f05-42ad-4ec0-86f3-b01b916c4933</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>fb3a9e9e-1249-4c17-a0a9-476b09192c0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'inventory_sidebar_link' and @href = '#' and (text() = 'All Items' or . = 'All Items')]</value>
-      <webElementGuid>68b05dbe-62f7-4ef9-b0f6-ea082ad718c2</webElementGuid>
+      <value>//button[@id = 'checkout' and @name = 'checkout' and (text() = 'Checkout' or . = 'Checkout')]</value>
+      <webElementGuid>5a2b0436-cfcc-406e-86ba-3edb2bcda5a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
